@@ -1,0 +1,13 @@
+#draggable {
+    width: 200px;
+    height: 200px;
+    border: 2px dashed black;
+    background-color: yellow;
+    line-height: 200px;
+    text-align: center;
+    font-size: 2em;
+    font-family: Helvetica;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
